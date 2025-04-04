@@ -1,5 +1,5 @@
 # mercychain-core
-Core contracts and docs for MercyChain â€” the gold-pegged, biometric-based blockchain.
+Core contracts and docs for MercyChain — the gold-pegged, biometric-based blockchain.
 ## Smart Contracts
 
 - `contracts/DNAR.sol` — MercyChain's gold-pegged main token (DNAR) with wallet cap enforcement.
