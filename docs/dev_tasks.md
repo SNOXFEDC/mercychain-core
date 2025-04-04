@@ -13,3 +13,6 @@
   - Connect wallet (Metamask)
   - Display escrow balance
   - Allow user to claim unlocked DNAR tokens
+- [ ] Add inviter reward system to `DNAR.sol`:
+  - When a wallet receives DNAR for the first time, save the sender as its "parent."
+  - On every future outgoing transfer, charge a small fee (e.g., 1%) and send it to the parent wallet automatically.
