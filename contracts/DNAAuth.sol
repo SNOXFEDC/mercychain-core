@@ -1,0 +1,1 @@
+// DNAAuth contract placeholder

@@ -1,0 +1,1 @@
+// DNAR contract placeholder

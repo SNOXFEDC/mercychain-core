@@ -1,0 +1,1 @@
+// Ripple Minting contract placeholder
